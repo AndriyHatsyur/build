@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAEA,+CACI,uBACJ","file":"main.68c5a578.chunk.css","sourcesContent":["@import \"~antd/dist/antd.css\";\n\n.ant-input-number-disabled, .ant-input-disabled {\n    color: rgb(41, 41, 41) !important;\n}\n\n\n\n"]}
